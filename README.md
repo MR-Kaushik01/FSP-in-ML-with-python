@@ -1,9 +1,9 @@
-# Machine Learning with Python – FSP (Semester 4)
+# Machine Learning with Python – FSP 
 
 **Name:** Manu Raj Kaushik
 **Roll No:** 13005324005
 **Course:** B.Tech, Electronics and Instrumentation Engineering 
-**College:** Techno Main Salt Lake, Kolkata (MAKAUT)
+**College:** Techno Main Salt Lake
 
 ---
 
